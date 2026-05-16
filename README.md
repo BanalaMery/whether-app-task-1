@@ -1,17 +1,18 @@
-# 🌦 Weather App - Task 1
+# 🌦 Weather App - Task 2
 
 ## 📌 Project Description
-This is a basic Weather App developed using HTML, CSS, and JavaScript.  
-The application fetches real-time weather information using the OpenWeather API.
+This is a responsive Weather App developed using HTML, CSS, and JavaScript.  
+The app fetches real-time weather data using the OpenWeather API.
 
 ---
 
 ## 🚀 Features
 - Search weather by city name
 - Real-time temperature display
-- Weather condition display
 - Humidity information
 - Wind speed details
+- Weather condition icons
+- Responsive UI/UX design
 
 ---
 
@@ -20,6 +21,14 @@ The application fetches real-time weather information using the OpenWeather API.
 - CSS
 - JavaScript
 - OpenWeather API
+
+---
+
+## 📱 Responsive Design
+The application is designed to work on:
+- Desktop
+- Mobile devices
+- Tablets
 
 ---
 
@@ -36,7 +45,7 @@ OpenWeather API
 ---
 
 ## 🎯 Internship Task
-Task-1: Onboarding and Environment Setup
+Task-2: Designing and Implementing UI/UX
 
 ---
 
